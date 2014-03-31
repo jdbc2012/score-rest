@@ -1,4 +1,6 @@
-RESTful API using node.js framework
+RESTful API using Node.js framework and Mongodb database.
+
+Provides a score server for games with different score for every level.
 
 Software requirements: (Linux environment)
 
